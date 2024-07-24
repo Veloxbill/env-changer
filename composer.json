@@ -49,5 +49,5 @@
                 "LaravelEnv": "veloxbill\\LaravelEnv\\LaravelEnvFacade"
             }
         }
-    },
+    }
 }
