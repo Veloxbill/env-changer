@@ -1,6 +1,6 @@
 <?php
 
-namespace msztorc\LaravelEnv;
+namespace veloxbill\LaravelEnv;
 
 class Env
 {
