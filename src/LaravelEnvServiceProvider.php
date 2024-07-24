@@ -1,6 +1,6 @@
 <?php
 
-namespace msztorc\LaravelEnv;
+namespace veloxbill\LaravelEnv;
 
 use Illuminate\Support\ServiceProvider;
 use msztorc\LaravelEnv\Commands\EnvDelCommand;
